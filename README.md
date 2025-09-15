@@ -6,6 +6,7 @@
 
 1. ﻿[2024 KAICTS 추계학술대회] <br>
    **합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화**
+   <img width="744" height="1052" alt="Image" src="https://github.com/user-attachments/assets/00cce396-f527-4228-902b-5dc2308ba84a" />
 ----
 
 2. ﻿[2025 KCSE 학술대회] <br>
